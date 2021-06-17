@@ -27,3 +27,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyam-op-007&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam-op-007&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyam-op-007&theme=highcontrast&ring=DD2727&fire=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
