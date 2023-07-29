@@ -1,10 +1,20 @@
-### Hi there 👋 I am Priyaranjan Mishra but you can call me Priyam 😅
-#### 🎓 I am currently persuing B-Tech in Computer science and engineering from VIT bhopal
+# Hello, World! 👋 It's [Priyaranjan Mishra] Here! 🌟
 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking forward to hone my DSA skills too
-- 💬 Ask me about Flutter 
-- ⚡ Fun fact: I love playing table tennis!
+```python
+def aspiring_data_wizard():
+    pronouns = ["He", "Him"]
+    interests = ["Data Science", "Data Analysis", "Salesforce", "Machine Learning"]
+    skills = ["Python", "SQL", "Pandas", "NumPy", "Matplotlib", "Salesforce Admin", "Tableau"]
+    
+    about_me = f"I'm an aspiring data wizard on a mission to unravel the magic of data and turn it into compelling stories."
+    return pronouns, interests, skills, about_me
+
+pronouns, interests, skills, about_me = aspiring_data_wizard()
+
+print(f"{pronouns[0]} am passionate about {', '.join(interests)} and equipped with skills in {', '.join(skills)}.")
+print(f"{about_me} Let's embark on a data adventure together! 🚀")
+
+
 
 ## ✉️ Find me on:
 
