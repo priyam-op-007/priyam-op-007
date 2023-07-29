@@ -11,10 +11,10 @@
 ### Skills & Wizardry 🧙‍♂️
 #### Salesforce Sorcery: Object Management, Configuration & Setup, Sales & Marketing, Service & Support, Productivity & Collaboration, Data Analytics, Automation.
 #### Data Alchemy: Python (NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib, Plotly, Folium, Cartopy).
-#### Coding Enchantments: Java, SQL.
+#### Coding Enchantments: [Java, SQL, Python](https://www.hackerrank.com/priyaranjanmish2?hr_r=1).
 
 ### Proud Enchantments 🌟
-#### 🏅 Acquired 127 badges, 88,000 points, and 4 superbadges on Trailhead, achieving Salesforce Ranger rank.
+#### 🏅 Acquired 127 badges, 88,000 points, and 4 superbadges on [Trailhead](https://www.salesforce.com/trailblazer/priyaranjanmishra), achieving Salesforce Ranger rank.
 #### 🌐 Certified in Google Cloud Computing Foundation.
 #### 🥉 Secured 3rd Prize in ElectraHack'21 Hackathon by creating [LOC_FEST](https://devfolio.co/projects/locfest-0cd7) and qualified for Round 2 in Build Tomorrow Hackathon.
 #### 🥇 Won 1st Prize of GFG Geek Week Local and ranked in the Top 15 in MLH INIT's Hacker Ranking.
