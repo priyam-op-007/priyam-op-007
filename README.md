@@ -1,6 +1,6 @@
 ## 🌟 Priyaranjan Mishra: The Data Magician 🎩
 
-### 🎓 🚀 Salesforce Enchanter and Data Virtuoso 🎯
+### 🎓 Salesforce Enchanter and Data Virtuoso 🎯
 #### Unleashing the magic of Salesforce to weave compelling business solutions with the power of data! 🌟
 
 ### Current Focus 🚀
